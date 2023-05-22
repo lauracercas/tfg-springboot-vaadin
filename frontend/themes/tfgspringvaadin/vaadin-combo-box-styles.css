@@ -1,0 +1,5 @@
+[part="overlay"] {
+    box-shadow: var(--shadow);
+   	--lumo-primary-color-10pct: hsla(214, 0%, 79%, 0.5);
+    
+}
